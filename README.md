@@ -6,4 +6,5 @@
 </p>
 
 ###往期分享   
+
 - [[第0期] G-Talent开源社区迷思](https://github.com/gtalent-community/share_learning/share_learning/tree/master/%5B第0期%5D%20G-Talent开源社区迷思)
